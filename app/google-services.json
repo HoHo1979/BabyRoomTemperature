@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1060074663166",
+    "firebase_url": "https://babyroomtemperature.firebaseio.com",
+    "project_id": "babyroomtemperature",
+    "storage_bucket": "babyroomtemperature.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060074663166:android:a7ccc4fd703bd7bd",
+        "android_client_info": {
+          "package_name": "com.iotarch.babyroomtemperature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060074663166-7j50glk984lnkqble2a9popth7bnepuo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iotarch.babyroomtemperature",
+            "certificate_hash": "6234d2735ff1621d7a1727d2a16250709c220702"
+          }
+        },
+        {
+          "client_id": "1060074663166-d7jfhb41agh6p85j4hiv6jf6h2pcsjl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6oJ7ZXO7arghBlCrsimjB6GLC9luEIPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060074663166-d7jfhb41agh6p85j4hiv6jf6h2pcsjl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
